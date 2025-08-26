@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="stylesheet" href="index.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+</head>
+
+<body>
+    <div class="Homepage d-flex flex-column justify-content-between" id=sectionHomepage>
+        <img class=banner src="https://d2clawv67efefq.cloudfront.net/ccbp-static-website/software-developer-img.png">
+        <h3 class="main-heading">My Projects</h3>
+        <p class="para">These are a few of my Static Website Projects that i have developed using HTML,CSS and Bootstrap</p>
+        <div class="rows d-flex flex-row justify-content-center">
+            <img class="projects" onclick="display('sectionproject1')" src="https://d2clawv67efefq.cloudfront.net/ccbp-static-website/advanced-technologies-img.png">
+            <img class="projects" onclick="display('sectionproject2')" src="https://d2clawv67efefq.cloudfront.net/ccbp-static-website/diwali-img.png">
+        </div>
+        <div class="rows d-flex flex-row justify-content-center">
+            <img class="projects" src="https://d2clawv67efefq.cloudfront.net/ccbp-static-website/food-img.png" onclick="display('sectionproject3')">
+            <img class="projects" onclick="display('sectionproject4')" src="https://d2clawv67efefq.cloudfront.net/ccbp-static-website/news-paper-img.png">
+        </div>
+    </div>
+    <div id=sectionproject1>
+        <div class="bg-img-p1 d-flex flex-column justify-content-end">
+            <div class="card-p1">
+                <h3 class="main-heading-p1 ">Advanced Technologies</h3>
+                <p class="paragraph-p1">Machinery and equipment developed from the application of scientific knowledge</p>
+                <div class="d-flex flex-row justify-content-start">
+                    <button class="button1-p1">Learn More</button>
+                    <button class="btn btn-primary" onclick="display('sectionproject1')">Back</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id=sectionproject2></div>
+    <div id=sectionproject3>
+        <div class="bg-img-p3 d-flex flex-column justify-content-end">
+            <div class=card-p3>
+                <h1 class=main-heading-p3>Happy Meals</h1>
+                <p class=para-p3>Discover the best foods over the 1,000 resturants</p>
+                <div class="d-flex flex-row justify-content-start">
+                    <button class=button-p3>Book Now</button>
+                    <button class="btn btn-primary" onclick="display('sectionHomepage')">Back</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id=sectionproject4></div>
+    <script type="text/javascript" src="https://new-assets.ccbp.in/frontend/content/static-ccbp-ui-kit/static-ccbp-ui-kit.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.Homepage {
+    font-family: "Bree Serif", Serif;
+    margin: 10px;
+    text-align: center;
+}
+
+.banner {
+    padding: 10px;
+    height: auto;
+    width: 100%;
+}
+
+.main-heading {
+    color: #183b56;
+    text-align: center;
+}
+
+.para {
+    color: #616e7c;
+    text-align: center;
+}
+
+.rows {
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.projects {
+    margin: 7px;
+    width: 45%;
+    height: auto;
+}
+
+.bg-img-p3 {
+    background-image: url('https://d2clawv67efefq.cloudfront.net/ccbp-static-website/foodbg.png');
+    height: 100vh;
+    background-size: cover;
+}
+
+.card-p3 {
+    background: #f6c56e;
+    padding: 3vh;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+    color: #323f4b;
+    text-align: left;
+}
+
+.main-heading-p3 {
+    font-family: 'Bree Serif';
+}
+
+.para-p3 {
+    font-family: 'Roboto';
+    font-weight: bold;
+}
+
+.button-p3 {
+    border-width: 0px;
+    border-radius: 5px;
+    height: 38px;
+    width: 120px;
+    background-color: white;
+    margin-right: 10px;
+}
+
+
+.bg-img-p1 {
+    background-image: url('https://d2clawv67efefq.cloudfront.net/ccbp-static-website/arvrbg.png');
+    height: 100vh;
+    background-size: cover;
+}
+
+.card-p1 {
+    background-color: #ffffff;
+
+    padding: 20px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+.main-heading-p1 {
+    color: #5752ab;
+    font-family: "Bree Serif";
+    text-align: left;
+}
+
+.paragraph-p1 {
+    text-align: left;
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+.button1-p1 {
+    border-radius: 5px;
+    border-width: 1px;
+    border-color: #d7dfe9;
+    background-color: #ffffff;
+    color: #171f46;
+    height: 38px;
+    width: 138px;
+    margin-right: 20px;
+}
