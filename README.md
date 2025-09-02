@@ -34,8 +34,11 @@ I also enjoy projects that blend hardware with software. A few earlier builds in
 
 **Current Projects:**
 
-* `static-website-advanced-technology/` — Static website titled **Advanced Technology**, built with HTML and CSS.
-* `static-website-flats/` — Static website **Sunrise Avenue (Flats Listing)**, built with HTML and CSS.
+* [`Static Website - Advanced Technology/`](./Static%20Website%20-%20Advanced%20Technology/) — Static website titled **Advanced Technology**  
+	(Files: [`Index.html`](./Static%20Website%20-%20Advanced%20Technology/Index.html) - Main HTML, [`index.css`](./Static%20Website%20-%20Advanced%20Technology/index.css) - Stylesheet)
+
+* [`Static Website - Flats/`](./Static%20Website%20-%20Flats/) — Static website **Sunrise Avenue (Flats Listing)**  
+	(Files: [`flats_index.html`](./Static%20Website%20-%20Flats/flats_index.html) - Main HTML, [`flats_index.css`](./Static%20Website%20-%20Flats/flats_index.css) - Stylesheet)
 
 **Structure (example):**
 
