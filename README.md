@@ -34,11 +34,21 @@ I also enjoy projects that blend hardware with software. A few earlier builds in
 
 **Current Projects:**
 
-* [`Static Website - Advanced Technology/`](./Static%20Website%20-%20Advanced%20Technology/) — Static website titled **Advanced Technology**  
-	(Files: [`Index.html`](./Static%20Website%20-%20Advanced%20Technology/Index.html) - Main HTML, [`index.css`](./Static%20Website%20-%20Advanced%20Technology/index.css) - Stylesheet)
+* [`Static Website - Advanced Technology/`](./Static%20Website%20-%20Advanced%20Technology/README.md) — A static website project showcasing advanced technology concepts using HTML and CSS.
+	- Main files: `Index.html`, `index.css`
+	- Features: Clean and static design, modern layout
 
-* [`Static Website - Flats/`](./Static%20Website%20-%20Flats/) — Static website **Sunrise Avenue (Flats Listing)**  
-	(Files: [`flats_index.html`](./Static%20Website%20-%20Flats/flats_index.html) - Main HTML, [`flats_index.css`](./Static%20Website%20-%20Flats/flats_index.css) - Stylesheet)
+* [`Static Website - Flats/`](./Static%20Website%20-%20Flats/README.md) — A static website project for Sunrise Avenue (Flats Listing) using HTML and CSS.
+	- Main files: `flats_index.html`, `flats_index.css`
+	- Features: Simple, mobile-friendly layout, real estate listing
+
+* [`Responsive Website - Ecommerce Website Offers Section/`](./Responsive%20Website%20-%20Ecommerce%20Website%20Offers%20Section/README.md) — A responsive section for showcasing special offers in an ecommerce website.
+	- Main files: `index.html`, `index.css`
+	- Features: Bootstrap 4 grid for responsiveness, modern design for offers
+
+* [`Responsive Website - Ecommerce Website Trending Blogs Section/`](./Responsive%20Website%20-%20Ecommerce%20Website%20Trending%20Blogs%20Section/README.md) — A responsive section for trending blogs in an ecommerce website.
+	- Main files: `index.html`, `index.css`
+	- Features: Bootstrap 4 grid for responsiveness, blog layout for ecommerce
 
 **Structure (example):**
 
