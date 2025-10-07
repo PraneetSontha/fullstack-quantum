@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+#Explore-Section {
+    background-color: #f5f5fa;
+    background-size: cover;
+    font-family: "Roboto";
+}
+
+.main-heading {
+    font-weight: 700;
+    color: #183b56;
+    font-size: 36px;
+}
+
+.Explore-Section-Cards {
+    background-color: #ffffff;
+    border-radius: 10px;
+}
+
+.card-heading {
+    color: #183b56;
+    font-weight: 700;
+    font-size: 24px;
+}
+
+.items-typeA {
+    border-radius: 25px;
+    object-fit: cover;
+}
+
+.items-name {
+    font-size: 16px;
+    color: #1f2933;
+}
+
+.Next-page-link {
+    color: #ff9f00;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.Next-page-link-arrow {
+    color: #ff9f00;
+    font-size: 16px;
+    font-weight: 600;
+}
